@@ -1,4 +1,3 @@
-# 1.0-Building-Character
 # 🧍‍♂️ 1.0 Building Character
 
 A personal development repository designed to host the foundational files, frameworks, and logic layers necessary for building character IRL (In Real Life). This project treats personal growth as a modular, versioned system—structured, intentional, and always evolving.
